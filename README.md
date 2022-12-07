@@ -9,6 +9,8 @@ The Loader can be also used for External cheats.
 
 The Loader uses ImGui Framework, so its fully customizable. 
 
+Just want to say if you use the base dont say you made it by yourself :) cause i made it
+
 Hope you enjoy :)
 
 Heres a Picture of the Loader
